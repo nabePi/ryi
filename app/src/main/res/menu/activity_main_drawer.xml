@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Beranda"
+            android:title="Beranda"
+            android:icon="@drawable/ic_beranda"/>
+        <item
+            android:id="@+id/nav_Program"
+            android:title="Program"
+            android:icon="@drawable/ic_program"/>
+        <item
+            android:id="@+id/nav_TentangKita"
+            android:title="Tentang Kita"
+            android:icon="@drawable/ic_tentang_kita"/>
+        <item
+            android:id="@+id/nav_Sejarah"
+            android:title="Sejarah"
+            android:icon="@drawable/ic_sejarah"/>
+        <item
+            android:id="@+id/nav_Manajemen"
+            android:title="Manajemen"
+            android:icon="@drawable/ic_manajemen"/>
+        <item
+            android:id="@+id/nav_VisiMisi"
+            android:title="Visi &amp; Misi"
+            android:icon="@drawable/ic_visi_misi"/>
+        <item
+            android:id="@+id/nav_SaudaraKita"
+            android:title="Saudara Kita"
+            android:icon="@drawable/ic_saudara_kita"/>
+        <item
+            android:id="@+id/nav_Donasi"
+            android:title="Donasi"
+            android:icon="@drawable/ic_donasi"/>
+        <item
+            android:id="@+id/nav_Kontak"
+            android:title="Kontak"
+            android:icon="@drawable/ic_kontak"/>
+    </group>
+
+</menu>
